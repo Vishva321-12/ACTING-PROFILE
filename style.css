@@ -177,7 +177,7 @@ about-col-1{
 }
 
 .services-list div:hover{
-background:darkorange;
+background:rgb(220, 13, 34);
 transform: translateY(-10px);
 }
 /*------------------portfilio-----------------------*/
